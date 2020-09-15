@@ -1,0 +1,11 @@
+.vscode
+BaltaStore.Api/bin
+BaltaStore.Api/obj
+BaltaStore.Domain/bin
+BaltaStore.Domain/obj
+BaltaStore.Infra/bin
+BaltaStore.Infra/obj
+BaltaStore.Shared/bin
+BaltaStore.Shared/obj
+BaltaStore.Tests/bin
+BaltaStore.Tests/obj
