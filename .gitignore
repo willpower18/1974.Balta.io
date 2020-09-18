@@ -1,4 +1,5 @@
 .vscode
+.vs
 BaltaStore.Api/bin
 BaltaStore.Api/obj
 BaltaStore.Domain/bin
